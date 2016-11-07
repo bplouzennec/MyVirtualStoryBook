@@ -31,3 +31,6 @@ Les objectifs sont :
  - Transitions conditionnelles
  - Noter et donner son avis sur un livre
  - Système de badge
+
+
+TODO adding back : mongoose-data-migrate
